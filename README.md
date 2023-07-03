@@ -1,4 +1,4 @@
-# PHP Iport CSV into SQLite
+# PHP Import CSV into SQLite
 
 ``` shell
 php index.php
